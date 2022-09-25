@@ -1,5 +1,6 @@
-<a href="https://github.com/Not-Zero-Blank/">
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T1F99JD)
+
+<a href="https://github.com/Not-Zero-Blank/">
 <img alt="" src="https://komarev.com/ghpvc/?username=Not-Zero-Blank&style=for-the-badge&color=5802ed&label=PROFILE+VIEW+COUNT"
 </a>
 
